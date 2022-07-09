@@ -1,0 +1,9 @@
+togglz:
+  enabled: true
+  console:
+    enabled: true
+    path: /togglz-console
+    secured: false
+
+employee:
+  feature: false
