@@ -6,4 +6,4 @@ togglz:
     secured: false
 
 employee:
-  feature: false
+  feature: true
